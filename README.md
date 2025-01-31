@@ -3,3 +3,5 @@
  on key business metrics like tenure and monthly charges.
  ◦ Engineered a Gradient Boosting model, achieving 95% accuracy in predicting customer churn and generating
  actionable insights that improved customer retention by 15%.
+ 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
