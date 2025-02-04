@@ -10,9 +10,9 @@ Services that each customer has signed up for – phone, multiple lines, interne
 Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges<br>
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
-<br><br>
+<br>
 
-## Exploratory Data Analysis
+## 📓 Exploratory Data Analysis
 
 Inferences:
 
@@ -64,7 +64,7 @@ The advantage of calculating a company's churn rate is that it provides clarity 
 
 <br >
 
-## Conclusion
+## 👉 Conclusion
 
 Conducted in-depth statistical analysis using EDA to identify churn drivers from a dataset of 7,043 customers, focusing on key business metrics like tenure and monthly charges.<br>
 Engineered a Gradient Boosting model, achieving 95% accuracy in predicting customer churn and generating actionable insights that improved customer retention.
